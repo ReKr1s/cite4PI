@@ -111,3 +111,10 @@ section {
 .more-btn:hover {
   background: #6b8e23;
 }
+.apple-img {
+  float: left;
+  width: 300px;   /* підбери під свій розмір */
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
